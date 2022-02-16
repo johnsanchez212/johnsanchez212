@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @johnsanchez212
+- 👀 I’m interested in building a portfolio, meet people, and learn
+- 🌱 I’m currently learning all about data analysis. I recently completed the Google certification program
+- 📫 How to reach me: johnsancheznyc@gmail.com
